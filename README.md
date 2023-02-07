@@ -18,13 +18,13 @@
 
 - 👯 I’m currently looking for **Web Dev Intern or SDE Intern**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitiiitian](https://github.com/ankitiiitian)
+- 👨‍💻 All of my projects are available at [https://github.com/Anjali1609](https://github.com/Anjali1609)
 
 - 📝 I regularly write articles on [https://ankitiiitian.github.io/ankit-s-steps.github.io/](https://ankitiiitian.github.io/ankit-s-steps.github.io/)
 
 - 💬 Ask me about **React, NodeJS, ExpressJS, DSA, Algorithm**
 
-- 📫 How to reach me **ankit.k@iiitg.ac.in, majorankits136@gmail.com**
+- 📫 How to reach me **anjalivermam22@iiitg.ac.in, vanjali723@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R-AE3W2Xcuvvq2W8YeHOtzEY9IPATdGJ/view?usp=sharing](https://drive.google.com/file/d/1R-AE3W2Xcuvvq2W8YeHOtzEY9IPATdGJ/view?usp=sharing)
 
@@ -38,10 +38,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/ankitiiitian/pens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ankitiiitian/pens/" height="30" width="40" /></a>
-<a href="https://dev.to/https://drive.google.com/file/d/1r-ae3w2xcuvvq2w8yehotzey9ipatdgj/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://drive.google.com/file/d/1r-ae3w2xcuvvq2w8yehotzey9ipatdgj/view?usp=sharing" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/https://codepen.io/ankitiiitian/pens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ankitiiitian/pens/" height="30" width="40" /></a>
+<a href="https://dev.to/https://drive.google.com/file/d/1r-ae3w2xcuvvq2w8yehotzey9ipatdgj/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://drive.google.com/file/d/1r-ae3w2xcuvvq2w8yehotzey9ipatdgj/view?usp=sharing" height="30" width="40" /></a> -->
 <a href="https://twitter.com/ankitmajorkuma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitmajorkuma1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-7648741a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-7648741a7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anjali-verma-259aa3118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjali-verma-259aa3118/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18868983/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18868983/ankit-kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/marc130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/marc130" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/nitian.ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nitian.ankit" height="30" width="40" /></a>
